@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "625428081040",
+    "project_id": "cine-booking-team6",
+    "storage_bucket": "cine-booking-team6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625428081040:android:16c725d7d36c2c73cdab15",
+        "android_client_info": {
+          "package_name": "com.example.cine_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEfoiTIdkhtYjbUBhIri_L1pGeeRnuk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625428081040:android:ab868afc578b33eccdab15",
+        "android_client_info": {
+          "package_name": "com.example.cine_booking6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEfoiTIdkhtYjbUBhIri_L1pGeeRnuk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625428081040:android:a993677406bd394dcdab15",
+        "android_client_info": {
+          "package_name": "com.example.cine_booking_team6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEfoiTIdkhtYjbUBhIri_L1pGeeRnuk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
