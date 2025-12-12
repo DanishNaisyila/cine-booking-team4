@@ -103,7 +103,7 @@ class MovieCardDian extends StatelessWidget {
                   /// Judul Film
                   ConstrainedBox(
                     constraints: const BoxConstraints(
-                      maxHeight: 34, // ✅ TAMBAHKAN constraint
+                      maxHeight: 34, 
                     ),
                     child: Text(
                       movie.title.length > 20
@@ -159,7 +159,7 @@ class MovieCardDian extends StatelessWidget {
 
                   /// Harga + Badge - FIX OVERFLOW
                   SizedBox(
-                    height: 20, // ✅ TAMBAHKAN height constraint
+                    height: 20, 
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       crossAxisAlignment: CrossAxisAlignment.center,
